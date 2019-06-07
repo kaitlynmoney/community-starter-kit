@@ -35,4 +35,10 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+Welcome new user! 
+
+GREETINGS, IT IS I YOUR GREAT AND BENEVOLENT OVERLORD.
+
+hi...
+
+How you doin?
