@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+This is the github-learning-lab tutorial to help Mona with her Probot app.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+The Probot app welcomes new team members when they first join. 
 
 ## Getting started
 
